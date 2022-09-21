@@ -1,5 +1,7 @@
-public class DATA {
-    public static public static void main(String[] args) {
+package sk.sosholic.prvypolrok;
+
+public class Data {
+    public static void main(String[] args) {
 
         System.out.println("boolean");
         System.out.println("byte");
@@ -9,4 +11,5 @@ public class DATA {
         System.out.println("float");
         System.out.println("double");
         System.out.println("char");
+    }
 }

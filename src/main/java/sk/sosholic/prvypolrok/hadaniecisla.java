@@ -33,6 +33,6 @@ class hadaniecisla {
     private int nahodnecislo (int high){
         Random r = new Random();
         int low = 1;
-        return r.nextInt(high )
+        return r.nextInt(high );
     }
 }

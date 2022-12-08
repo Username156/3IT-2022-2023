@@ -20,8 +20,8 @@ public class zookeeper {
 
     public animal zistinajdrahsiezviera(){
         for (animal animal : zoo){
-            animal.getAnimaltype() =
+            animal.getAnimaltype();
         }
-
+return null;
     }
 }
